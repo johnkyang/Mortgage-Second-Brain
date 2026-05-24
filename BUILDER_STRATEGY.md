@@ -12,6 +12,13 @@ updated: 2026-05-24
 > Goal: become a preferred/embedded lender for builders so their buyer traffic flows to
 > John. Builder deals = volume + predictability when the relationship is real.
 
+> ⚠️ **Current reality (2026-05-24):** John's top account is a builder with a few active
+> developments — but it's **finite** (ends when projects sell out). Two implications:
+> **(1) Concentration risk** — diversify into durable channels (realtor roster + database)
+> now. **(2) The developments' highest strategic value may be realtor ACQUISITION** — every
+> agent who brings a buyer is a warm partner prospect. Harvest them while active:
+> [[wiki/realtor_systems/realtor-partner-acquisition-playbook]].
+
 ## Why builders matter
 A single builder relationship can produce a **steady pipeline** of pre-qualified buyers
 walking into model homes. The LO who can finance more buyer types (DPA, non-QM, lower

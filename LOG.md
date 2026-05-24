@@ -14,6 +14,20 @@ Entry format:
 
 ---
 
+## 2026-05-24 — KEY INSIGHT: builder is finite + a realtor-acquisition gateway
+- Added/changed: Captured interview to [[raw/call_notes/2026-05-24-interview-lead-channels]];
+  built [[wiki/realtor_systems/realtor-partner-acquisition-playbook]]; revised the lead
+  synthesis priority order; flagged concentration risk in [[BUILDER_STRATEGY.md]] and the
+  acquisition challenge in [[REALTOR_STRATEGY.md]].
+- Learned/insight: Top account = a FINITE builder (sells out → pipeline ends) = concentration
+  risk. Biggest stated challenge = not enough realtor partners. The developments actively
+  introduce new realtors → use the builder as a TIME-SENSITIVE realtor-acquisition engine to
+  build a durable roster before projects sell out. New #0 priority.
+- Gaps/opportunities: Need builder name + developments + John's status (preferred/on-site),
+  # of agents met so far, and the sell-out timeline (defines the window).
+- Next action: Get builder details → create builder entity + Development Realtors tracker;
+  draft capture/conversion outreach scripts.
+
 ## 2026-05-24 — Built lead playbooks: reactivation + realtor referrals
 - Added/changed: Created [[wiki/strategies/database-reactivation-campaign]] (segments,
   value-first multi-touch sequence, metrics, TCPA/RESPA notes) and

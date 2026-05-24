@@ -13,6 +13,11 @@ updated: 2026-05-24
 > Realtors don't refer based on rates — they refer based on **trust, speed, communication,
 > and how you make them look to their clients.**
 
+> 🚩 **#1 challenge (2026-05-24): not enough realtor partners.** The constraint is
+> partner **ACQUISITION**, not just nurturing existing ones. Time-sensitive opening: John's
+> active builder developments are introducing him to new agents — harvest them now via the
+> [[wiki/realtor_systems/realtor-partner-acquisition-playbook]] before the projects sell out.
+
 ## The partner thesis
 A great LO partner makes the realtor's deals **close faster, with fewer surprises, and
 makes the realtor look like a hero**. Be the LO who never lets a deal blow up silently.

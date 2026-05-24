@@ -32,7 +32,7 @@
 ## /raw — source-of-truth inputs (immutable)
 
 > Drop raw material into the matching subfolder. See `raw/README.md` for what goes where.
-> _No raw files ingested yet._
+- [[raw/call_notes/2026-05-24-interview-lead-channels]] — interview: lead channels & constraints
 
 ## /wiki — derived knowledge assets
 
@@ -59,6 +59,7 @@ _See the eight strategy hubs above. Sub-systems to be built in `/wiki/*_systems`
 ### Lead playbooks (built)
 - [[wiki/strategies/database-reactivation-campaign]] — mine the owned database for leads
 - [[wiki/realtor_systems/realtor-referral-framework]] — earn + grow realtor referrals
+- [[wiki/realtor_systems/realtor-partner-acquisition-playbook]] — ⏳ harvest realtors via the builder gateway (time-sensitive)
 
 ### Scripts / Offers / Campaigns / Playbooks / Automations
 _None yet._

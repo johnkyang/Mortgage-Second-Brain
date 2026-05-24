@@ -38,6 +38,25 @@ Referral channels are already proven on quality — they just lack a *volume sys
      partners, social proof from wins, and "stay top of mind" so referrals remember you.
    - Build a second inbound channel over time (DPA / first-time-buyer lead magnets).
 
+## ⏳ UPDATE 2026-05-24 — the builder gateway changes the #1 move
+New intel (see [[raw/call_notes/2026-05-24-interview-lead-channels]]):
+- John's **top current account is a finite builder account** (a few developments). It ends
+  when the projects sell out → **concentration / channel-expiration risk.**
+- His **stated biggest challenge is "not enough realtor partners."**
+- The developments are actively introducing him to **new realtors.**
+
+**Conclusion:** The single highest-leverage, **time-sensitive** lead move is to use the
+builder developments as a **realtor-acquisition engine** — convert development agents into a
+durable partner roster *before the projects sell out.* This both fixes the realtor gap AND
+de-risks the builder concentration. See
+[[wiki/realtor_systems/realtor-partner-acquisition-playbook]].
+
+**Revised priority order:**
+0. **Harvest realtors from the builder developments NOW** (time-boxed window).
+1. Reactivate the owned database (fast, durable).
+2. Systematize referral + review asks.
+3. Content as amplifier.
+
 ## Why this beats "just run ads"
 - Protects average client quality while increasing volume.
 - Uses assets John already has (relationships, past clients, reputation).
