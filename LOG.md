@@ -14,6 +14,17 @@ Entry format:
 
 ---
 
+## 2026-05-24 — Tooling confirmed: Salesforce + ClickUp
+- Added/changed: Recorded tooling in [[AUTOMATION_ROADMAP.md]] (CRM=Salesforce, ops=ClickUp)
+  and noted Claude has direct ClickUp MCP access → can build the referral/reactivation
+  engine as live ClickUp work.
+- Learned/insight: Automation can be real, not theoretical — referral/review triggers can
+  live in Salesforce (loan-status) and/or ClickUp (recurring tasks).
+- Gaps/opportunities: Need John's OK + a read of his ClickUp workspace before creating
+  anything there. Don't yet know content/scheduling + automation glue tools.
+- Next action: Ask whether to connect to ClickUp (explore + propose a Referral & Review
+  Engine) vs. keep building markdown playbooks first.
+
 ## 2026-05-24 — Built referral + review systems (quick win)
 - Added/changed: Created [[wiki/sales_systems/referral-ask-system]] and
   [[wiki/sales_systems/review-generation-system]] with trigger maps + scripts + RESPA

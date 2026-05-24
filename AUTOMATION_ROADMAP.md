@@ -40,14 +40,23 @@ whether it touches one of the 6 levers. Build highest-ROI first.
 - [ ] Realtor/builder update automations (deal status → make John look great).
 - [ ] Co-marketing asset generation on demand.
 
-## Tooling inventory — _TODO: confirm with John_
+## Tooling inventory (confirmed 2026-05-24)
 | Function | Tool | Status |
 |---|---|---|
-| CRM | `TODO` | |
+| CRM / pipeline | **Salesforce** | active — fire referral/review triggers off loan-status changes |
+| Ops / project mgmt | **ClickUp** | active — **Claude has direct ClickUp access (MCP)** |
 | Content/scheduling | `TODO` | |
 | Automation (Zapier/Make/n8n) | `TODO` | |
 | Transcription | `TODO` | |
 | AI assistant | Claude Code (this) | active |
+
+### Integration opportunities (high-leverage)
+- **ClickUp (direct):** build a "Referral & Review Engine" with recurring task triggers at
+  funding/closing/30-day/anniversary (from [[wiki/sales_systems/referral-ask-system]]);
+  track a database-reactivation campaign as a ClickUp list. _Needs John's OK + a look at
+  his workspace before creating anything._
+- **Salesforce:** Flow/automation to auto-create the referral + review ask task when a loan
+  hits "funded"; tag + report referral sources for [[LEAD_GENERATION.md]].
 
 ## Open questions for John
 1. What repetitive task eats the most of your time each week?
