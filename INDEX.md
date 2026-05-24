@@ -52,6 +52,10 @@ _See the eight strategy hubs above. Sub-systems to be built in `/wiki/*_systems`
 ### Syntheses (cross-cutting insights)
 - [[wiki/syntheses/lead-strategy-scale-referrals-first]] — top lead priority: scale referrals first
 
+### Sales systems (built)
+- [[wiki/sales_systems/referral-ask-system]] — repeatable referral asks (triggers + scripts)
+- [[wiki/sales_systems/review-generation-system]] — review/social-proof system
+
 ### Scripts / Offers / Campaigns / Playbooks / Automations
 _None yet._
 

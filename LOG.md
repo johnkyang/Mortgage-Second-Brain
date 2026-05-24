@@ -14,6 +14,17 @@ Entry format:
 
 ---
 
+## 2026-05-24 — Built referral + review systems (quick win)
+- Added/changed: Created [[wiki/sales_systems/referral-ask-system]] and
+  [[wiki/sales_systems/review-generation-system]] with trigger maps + scripts + RESPA
+  compliance notes; registered in [[INDEX.md]].
+- Learned/insight: John asks for referrals/reviews inconsistently → biggest quick win is
+  a fixed trigger (funding/closing) + ready scripts. Both asks happen in the same moment.
+- Gaps/opportunities: Need CRM (to automate triggers), review platforms list, and
+  database size to scope a reactivation campaign.
+- Next action: Confirm CRM + review platforms; then wire trigger reminders
+  (AUTOMATION_ROADMAP Phase 4) and scope database reactivation.
+
 ## 2026-05-24 — Interview: best clients = referrals → scale referral engine
 - Added/changed: Created [[wiki/syntheses/lead-strategy-scale-referrals-first]];
   updated [[LEAD_GENERATION.md]] priority + source map (realtor + past-client referrals
