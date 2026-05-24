@@ -16,7 +16,14 @@ updated: 2026-05-24
 > 🚩 **#1 challenge (2026-05-24): not enough realtor partners.** The constraint is
 > partner **ACQUISITION**, not just nurturing existing ones. Time-sensitive opening: John's
 > active builder developments are introducing him to new agents — harvest them now via the
-> [[wiki/realtor_systems/realtor-partner-acquisition-playbook]] before the projects sell out.
+> [[wiki/realtor_systems/realtor-partner-acquisition-playbook]] + convert them with the
+> [[wiki/realtor_systems/realtor-contact-to-partner-conversion]] engine before sell-out.
+
+> ⭐ **Highest-ROI single relationship:** the **top realtor in the market**
+> ([[wiki/entities/top-realtor-champion]]) — listed the builder's 119 homes and invited John
+> onto the project. Deepen this into being their #1 lender across ALL their business (not just
+> the builder), and earn intros to other top agents. Much of John's current position traces to
+> this one relationship — nurture and protect it deliberately.
 
 ## The partner thesis
 A great LO partner makes the realtor's deals **close faster, with fewer surprises, and

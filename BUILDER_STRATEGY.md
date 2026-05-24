@@ -50,6 +50,15 @@ The current top builder sells out in ~12–18 mo. Two moves to make the channel 
 2. **Replicate:** run the deal-advocate method to **win NEW builder accounts** — turning a
    one-off relationship into a repeatable builder-acquisition motion.
 
+### The "land a new project" move (proven template)
+John already did this: he **sold himself onto Cordova** (2nd development) using his
+**Chinese-language edge** ([[wiki/concepts/chinese-language-edge]]). The repeatable formula:
+**lead with a differentiator the project needs (language match, deal-advocacy, program breadth)
++ self-advocate to the builder/listing agent.** Use it to win the builder's next phases and
+other builders' projects — especially ones with Chinese-speaking buyer bases.
+Entry assets: company's builder relationship + the top realtor
+([[wiki/entities/top-realtor-champion]]).
+
 ## Track each builder/project
 Entity per builder + per project in `/wiki/entities`; raw notes in
 `/raw/builder_projects`:

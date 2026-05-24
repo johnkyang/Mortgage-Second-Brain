@@ -49,6 +49,19 @@ tags: [interview, leads, builder, realtor, strategy]
   convert those contacts into ongoing referral partners** (the conversion engine, not just
   the capture).
 
+### Addendum 5 (2026-05-24) — how John got onto the projects (origin story)
+- The **builder uses John's company** (company-level lender relationship).
+- The builder hired **the top realtor in John's marketplace** to list **119 homes**.
+- That **top realtor invited John** to be part of the (first) project → his entry came via
+  the market's #1 agent.
+- For the **2nd development, "Cordova" (same builder),** John **sold himself onto it** —
+  leveraging that **he speaks Chinese**.
+- Inferred (`TODO: confirm`): (a) which project the 119 homes is (1st vs Cordova);
+  (b) Cordova likely has a meaningful Chinese-speaking buyer base (why the language edge won
+  him the assignment).
+- Two assets revealed: **(1) the top realtor = John's #1 relationship/super-connector;
+  (2) Chinese-language ability = a core differentiator** (won him a development).
+
 
 ---
 

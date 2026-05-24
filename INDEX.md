@@ -42,11 +42,14 @@ _None yet._
 ### Entities (people, companies, programs, neighborhoods)
 - [[wiki/entities/john-yang]] — business owner; center of the graph
 - [[wiki/entities/builder-account-primary]] — top account; 1-of-2 preferred lender (finite, ~12–18 mo)
+- [[wiki/entities/top-realtor-champion]] — ⭐ #1 relationship; top market agent who brought John in
+- [[wiki/entities/cordova-development]] — 2nd development (won via Chinese-language edge)
 
 ### Concepts (frameworks, objections, emotional patterns)
 - [[wiki/concepts/six-business-levers]] — the universal prioritization filter
 - [[wiki/concepts/cost-of-waiting]] — rate-objection reframe (seed)
-- [[wiki/concepts/builder-deal-advocate]] — ★ John's core differentiator (price/concessions/buydowns)
+- [[wiki/concepts/builder-deal-advocate]] — ★ core differentiator (price/concessions/buydowns)
+- [[wiki/concepts/chinese-language-edge]] — ★ 2nd core differentiator (bilingual; won Cordova)
 
 ### Strategies & Systems
 _See the eight strategy hubs above. Sub-systems to be built in `/wiki/*_systems`._

@@ -14,6 +14,23 @@ Entry format:
 
 ---
 
+## 2026-05-24 — Origin story: top realtor + Chinese-language edge (2nd differentiator)
+- Added/changed: Captured how John got onto the projects — builder uses his company; the
+  TOP market realtor (listed the builder's 119 homes) invited him onto project 1; he
+  self-advocated onto Cordova (2nd dev) via his Chinese-language ability. Created entities
+  [[wiki/entities/top-realtor-champion]] + [[wiki/entities/cordova-development]] and concept
+  [[wiki/concepts/chinese-language-edge]]; updated builder entity, REALTOR + BUILDER hubs,
+  index.
+- Learned/insight: TWO new high-value assets — (1) the top realtor is John's #1 relationship
+  / super-connector (deepen beyond the builder); (2) Chinese-language ability is a second
+  core differentiator (cross-product: FTB/DPA/reverse/investors; underserved content
+  segment) that already WON a development. The Cordova win is the proven template for landing
+  new projects (differentiator + self-advocacy).
+- Gaps/opportunities: Names (top realtor, builder), which project is the 119 homes, Cordova's
+  Chinese-speaking buyer share, John's Chinese-content capacity.
+- Next action: Deepen the top-realtor relationship plan; consider a Chinese-language content
+  pillar; get the names to harden the entities.
+
 ## 2026-05-24 — Built realtor contact→partner conversion engine
 - Added/changed: John needs a system to convert the many realtors he meets at the projects
   into partners → built [[wiki/realtor_systems/realtor-contact-to-partner-conversion]]

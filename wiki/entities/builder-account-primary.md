@@ -14,7 +14,12 @@ updated: 2026-05-24
 
 **Type:** Builder — John's **top current account.**
 **Name:** `TODO: get builder name`
-**Developments:** `TODO: list communities + locations`
+**Developments:** Project 1 — **119 homes** (listed by the top market realtor, who invited
+John on); **Cordova** — 2nd development ([[wiki/entities/cordova-development]]).
+`TODO: confirm which is the 119-home project + locations.`
+**Entry point:** Builder uses **John's company**; the **top market realtor**
+([[wiki/entities/top-realtor-champion]]) invited John onto project 1; John **self-advocated**
+onto Cordova via his **Chinese-language edge** ([[wiki/concepts/chinese-language-edge]]).
 
 ## The structure (why this account matters)
 - John is **1 of 2 preferred lenders on site.**
