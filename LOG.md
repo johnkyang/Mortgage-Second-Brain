@@ -14,6 +14,19 @@ Entry format:
 
 ---
 
+## 2026-05-24 — Built realtor contact→partner conversion engine
+- Added/changed: John needs a system to convert the many realtors he meets at the projects
+  into partners → built [[wiki/realtor_systems/realtor-contact-to-partner-conversion]]
+  (5-stage pipeline + timed value-first sequence + scripts + metrics); linked from the
+  acquisition playbook (strategy) as the operational engine; registered in index.
+- Learned/insight: Capture ≠ conversion. The gateway gets contacts; a timed nurture pipeline
+  (Met→Connected→Nurturing→First co-deal→Partner) converts them. Deal-advocate edge is the
+  magnet for value drop #1; bringing a buyer is the fastest trust-builder.
+- Gaps/opportunities: Need the expanded outreach scripts + a programs/edge one-pager; pipeline
+  must be stood up in Salesforce/ClickUp. (Open: how John earned builder trust — parked.)
+- Next action: Draft realtor-outreach-scripts + the one-pager; optionally stand up the
+  pipeline in ClickUp/Salesforce.
+
 ## 2026-05-24 — Extracted the deal-advocate METHOD (now a replicable playbook)
 - Added/changed: Captured the mechanism (builder trusts John's read + John holds the
   qualification math → he builds the case for the buyer's terms). Built

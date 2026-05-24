@@ -41,6 +41,11 @@ Agent brings a buyer to the development
    → Ongoing partner (survives the builder project selling out)
 ```
 
+> **The conversion mechanics** (the follow-up sequence + pipeline that actually turns a
+> captured contact into a partner) live in
+> [[wiki/realtor_systems/realtor-contact-to-partner-conversion]]. This playbook = the
+> strategy; that engine = the operational how.
+
 ## Step-by-step
 
 ### 1. Capture every development agent (don't let them slip)

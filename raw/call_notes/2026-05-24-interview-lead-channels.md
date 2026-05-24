@@ -44,6 +44,11 @@ tags: [interview, leads, builder, realtor, strategy]
   builder's trust to credibly show "give this term → the buyer qualifies → the sale closes."
   He sells the builder on the path to closing, not just a discount.
 
+### Addendum 4 (2026-05-24) — stated need
+- John meets **tons of realtors** through the projects and explicitly needs a **system to
+  convert those contacts into ongoing referral partners** (the conversion engine, not just
+  the capture).
+
 
 ---
 

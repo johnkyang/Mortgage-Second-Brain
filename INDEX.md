@@ -62,6 +62,7 @@ _See the eight strategy hubs above. Sub-systems to be built in `/wiki/*_systems`
 - [[wiki/strategies/database-reactivation-campaign]] — mine the owned database for leads
 - [[wiki/realtor_systems/realtor-referral-framework]] — earn + grow realtor referrals
 - [[wiki/realtor_systems/realtor-partner-acquisition-playbook]] — ⏳ harvest realtors via the builder gateway (time-sensitive)
+- [[wiki/realtor_systems/realtor-contact-to-partner-conversion]] — convert met-realtors into partners (pipeline + sequence)
 - [[wiki/builder_systems/preferred-lender-conversion-system]] — ⏳ win pre-approval share + convert to funded (top account)
 
 ### Playbooks (built)
