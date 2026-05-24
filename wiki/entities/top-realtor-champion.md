@@ -1,6 +1,6 @@
 ---
 type: entity
-title: Top Market Realtor (name TODO) — Key Champion
+title: Neal Weichel — Key Champion (Top Market Realtor)
 status: developing
 entity_type: realtor
 tags: [realtor, champion, super-connector, builder, priority, top-relationship]
@@ -10,11 +10,11 @@ created: 2026-05-24
 updated: 2026-05-24
 ---
 
-# Top Market Realtor (name TODO) — Key Champion
+# Neal Weichel — Key Champion (Top Market Realtor)
 
 **Type:** Realtor — **John's highest-POTENTIAL realtor relationship (currently
 underdeveloped).**
-**Name:** `TODO: get name + brokerage`
+**Name:** Neal Weichel · brokerage `TODO` · contact `TODO`
 **Why they matter:** The **top realtor in John's marketplace**; hired by the builder to list
 a **119-home** project, and the one who **invited John onto the project.** A super-connector
 who controls major listings.

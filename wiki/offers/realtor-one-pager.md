@@ -15,7 +15,7 @@ Leave-behind / DM asset for agents. **Positioning:** *"I close your deals and se
 others can't"* — NOT "I'll feed you leads." Copy below is the draft; hand to design (Canva).
 
 > ⚠️ Compliance before publishing: no guarantees of approval/rate/savings; advocacy/effort
-> language only; add **NMLS #[TODO]**, **Equal Housing Opportunity** logo, company name +
+> language only; add **NMLS #242839**, **Equal Housing Opportunity** logo, company name +
 > disclaimers. See [[CLAUDE.md]] §8.
 
 ---
@@ -49,7 +49,7 @@ others can't"* — NOT "I'll feed you leads." Copy below is the draft; hand to d
 
 **Let's work together.**
 > [Name], Mortgage Loan Consultant · [phone] · [email] · [booking link]
-> NMLS #[TODO] · [Company] · Equal Housing Opportunity
+> NMLS #242839 · [Company] · Equal Housing Opportunity
 
 ---
 

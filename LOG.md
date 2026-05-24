@@ -14,6 +14,18 @@ Entry format:
 
 ---
 
+## 2026-05-24 — Put scripts INTO ClickUp; named top agent (Neal Weichel)
+- Added/changed: John works in ClickUp, not the GitHub vault → embedded the full outreach
+  scripts + one-pager copy as ClickUp tasks in the Realtor Partner Pipeline; named the top
+  agent **Neal Weichel** (updated [[wiki/entities/top-realtor-champion]] + the ClickUp task);
+  filled **NMLS #242839** into [[wiki/offers/realtor-one-pager]].
+- Learned/insight: **Workflow alignment matters — actionable content must live in ClickUp
+  (where John works), not just the vault (the brain).** Going forward, put usable scripts/
+  guides in ClickUp; keep the vault as source-of-truth/strategy.
+- Gaps/opportunities: Neal's brokerage/contact; confirm whether to mirror more vault assets
+  into ClickUp.
+- Next action: Confirm the ClickUp-first workflow; capture dev agents into the pipeline.
+
 ## 2026-05-24 — Built the Realtor Outreach Kit (scripts + one-pager + ClickUp pipeline)
 - Added/changed: Created [[wiki/scripts/realtor-outreach-scripts]] (8 give-first scenarios)
   + [[wiki/offers/realtor-one-pager]] ("why work with me," compliant draft). Stood up a
