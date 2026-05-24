@@ -89,6 +89,18 @@ tags: [interview, leads, builder, realtor, strategy]
   serve buyers they CAN'T (Chinese), make them look good. Default partner value prop is
   service + edges, NOT "I'll feed you deals."
 
+### Addendum 9 (2026-05-24) — content brief
+- John is **comfortable on camera.**
+- Wants a **SYSTEM** to generate content that is **NOT typical educational mortgage content**
+  like everyone else.
+- Wants persuasion built into scripts using **Russell Brunson's** frameworks + **Edward
+  Bernays' "Propaganda"** techniques (subconscious desire, engineering consent, authority,
+  association, social proof).
+- **Needs production help:** editing, thumbnails, captions.
+- Track record: produced **2–3 videos/week for 1+ year**, then **stopped for months**
+  (strong signal: production friction / doing it all himself = burnout → the system must
+  delegate edit/thumbnail/caption).
+
 
 ---
 

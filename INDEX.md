@@ -36,8 +36,9 @@
 
 ## /wiki — derived knowledge assets
 
-### Sources
-_None yet._
+### Sources (role models)
+- [[wiki/sources/russell-brunson]] — story-selling / Hook-Story-Offer / belief-shifting
+- [[wiki/sources/edward-bernays]] — propaganda / subconscious-desire persuasion
 
 ### Entities (people, companies, programs, neighborhoods)
 - [[wiki/entities/john-yang]] — business owner; center of the graph
@@ -51,6 +52,7 @@ _None yet._
 - [[wiki/concepts/builder-deal-advocate]] — ★ core differentiator (price/concessions/buydowns)
 - [[wiki/concepts/chinese-language-edge]] — ★ 2nd core differentiator (bilingual; won Cordova)
 - [[wiki/concepts/give-first-reciprocity]] — win in-demand partners by giving business first
+- [[wiki/concepts/persuasion-content-frameworks]] — ★ Brunson × Bernays for mortgage content
 
 ### Strategies & Systems
 _See the eight strategy hubs above. Sub-systems to be built in `/wiki/*_systems`._
@@ -72,6 +74,12 @@ _See the eight strategy hubs above. Sub-systems to be built in `/wiki/*_systems`
 
 ### Playbooks (built)
 - [[wiki/playbooks/deal-advocate-playbook]] — ★ how John wins buyers better builder terms (replicable)
+
+### Content systems (built)
+- [[wiki/content_systems/content-engine]] — ★ persuasion-first video production system + restart plan
+- [[wiki/content_systems/viral-hooks]] — persuasion hook library
+- [[wiki/content_systems/script-template]] — Hook-Story-Offer script template
+- [[wiki/content_systems/thumbnail-and-caption-system]] — edit/thumbnail/caption delegation specs
 
 ### Scripts (built)
 - [[wiki/scripts/why-use-me-vs-shopping]] — retention / anti-shopping (no lock-in on builder account)

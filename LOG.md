@@ -14,6 +14,23 @@ Entry format:
 
 ---
 
+## 2026-05-24 — Built the persuasion-first Content Engine
+- Added/changed: John wants non-generic, persuasion-driven video (Brunson + Bernays), is
+  comfortable on camera, needs edit/thumbnail/caption help, did 2–3/wk for 1yr then stopped.
+  Built role-model sources ([[wiki/sources/russell-brunson]], [[wiki/sources/edward-bernays]]),
+  the applied [[wiki/concepts/persuasion-content-frameworks]], and the production system:
+  [[wiki/content_systems/content-engine]], [[wiki/content_systems/viral-hooks]],
+  [[wiki/content_systems/script-template]], [[wiki/content_systems/thumbnail-and-caption-system]].
+  Updated [[CONTENT_STRATEGY.md]] (persuasion-first philosophy + Chinese pillar) + index.
+- Learned/insight: He stopped due to production friction → the system's core fix is
+  DELEGATION (John only does ideas + on camera; edit/thumb/caption go to tools/VA) + batch
+  recording. Differentiator = persuasion over education; Chinese pillar = near-zero competition.
+  Added a hard compliance guardrail: persuasion on TRUE messages only.
+- Gaps/opportunities: Confirm tools (edit/scheduler), decide VA vs AI, build Canva templates,
+  fill the first idea bank. Could stand up a ClickUp content pipeline.
+- Next action: Run the idea + script session (draft 6–9 scripts) so John can batch-record;
+  set up delegation for post-production.
+
 ## 2026-05-24 — Constraint: tier the giving (buyer-referrals are scarce)
 - Added/changed: John can only refer to a few partners + doesn't want all partners expecting
   referrals. Updated [[wiki/concepts/give-first-reciprocity]] with tiering + scalable
