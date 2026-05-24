@@ -14,6 +14,21 @@ Entry format:
 
 ---
 
+## 2026-05-24 — Builder structure: captive pre-approval + 12–18 mo window
+- Added/changed: Recorded that John is 1 of 2 on-site preferred lenders, buyers must
+  pre-approve with one of them but aren't required to use them, and projects sell out in
+  ~1–1.5 yrs. Built [[wiki/builder_systems/preferred-lender-conversion-system]] (3 levers:
+  pre-approval share, pre-approval→funded conversion, realtor harvest); created the builder
+  entity [[wiki/entities/builder-account-primary]]; added the window to the synthesis +
+  acquisition playbook.
+- Learned/insight: The account is a CAPTIVE funnel (mandatory pre-approval) with two leaks
+  (share vs. co-lender; pre-approval→funded since buyers can shop). On-site sales reps are
+  likely the gatekeepers for share; a builder incentive (if any) is the top retention lever.
+- Gaps/opportunities: Need routing method (how buyers pick a lender), whether a buyer
+  incentive exists, current pre-approval→funded %, builder name + sales-rep contacts.
+- Next action: Ask about routing + buyer incentive (the two biggest unknowns), then build
+  the sales-rep relationship plan + capture/conversion scripts.
+
 ## 2026-05-24 — KEY INSIGHT: builder is finite + a realtor-acquisition gateway
 - Added/changed: Captured interview to [[raw/call_notes/2026-05-24-interview-lead-channels]];
   built [[wiki/realtor_systems/realtor-partner-acquisition-playbook]]; revised the lead

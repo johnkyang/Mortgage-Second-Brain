@@ -52,10 +52,16 @@ de-risks the builder concentration. See
 [[wiki/realtor_systems/realtor-partner-acquisition-playbook]].
 
 **Revised priority order:**
-0. **Harvest realtors from the builder developments NOW** (time-boxed window).
+0. **Harvest realtors from the builder developments NOW** (time-boxed ~12–18 mo window).
+   John is 1 of 2 on-site preferred lenders with **mandatory buyer pre-approval** → captive
+   funnel. Run [[wiki/builder_systems/preferred-lender-conversion-system]] (win pre-approval
+   share, convert pre-approval→funded, harvest the agent).
 1. Reactivate the owned database (fast, durable).
 2. Systematize referral + review asks.
 3. Content as amplifier.
+
+**Clock:** projects sell out in ~1–1.5 years. The durable channels (realtor roster +
+database) must be self-sustaining *before* the builder pipeline ends.
 
 ## Why this beats "just run ads"
 - Protects average client quality while increasing volume.

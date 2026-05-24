@@ -22,6 +22,13 @@ tags: [interview, leads, builder, realtor, strategy]
   - The developments are creating **opportunities to work with more realtors**.
 - **Stated biggest challenge:** **"Not enough realtor partners."**
 
+### Addendum (2026-05-24, same session) — preferred-lender structure
+- John is **one of TWO preferred lenders on site** at the developments.
+- Buyers are **required to be pre-approved by one of the two** preferred lenders.
+- Buyers are **NOT required to use** a preferred lender for the actual loan (can shop).
+- **Sell-out timeline: ~1 to 1.5 years** → the window to harvest realtors + maximize the
+  account is ~12–18 months.
+
 ---
 
 ## Claude processing block

@@ -41,6 +41,7 @@ _None yet._
 
 ### Entities (people, companies, programs, neighborhoods)
 - [[wiki/entities/john-yang]] — business owner; center of the graph
+- [[wiki/entities/builder-account-primary]] — top account; 1-of-2 preferred lender (finite, ~12–18 mo)
 
 ### Concepts (frameworks, objections, emotional patterns)
 - [[wiki/concepts/six-business-levers]] — the universal prioritization filter
@@ -60,6 +61,7 @@ _See the eight strategy hubs above. Sub-systems to be built in `/wiki/*_systems`
 - [[wiki/strategies/database-reactivation-campaign]] — mine the owned database for leads
 - [[wiki/realtor_systems/realtor-referral-framework]] — earn + grow realtor referrals
 - [[wiki/realtor_systems/realtor-partner-acquisition-playbook]] — ⏳ harvest realtors via the builder gateway (time-sensitive)
+- [[wiki/builder_systems/preferred-lender-conversion-system]] — ⏳ win pre-approval share + convert to funded (top account)
 
 ### Scripts / Offers / Campaigns / Playbooks / Automations
 _None yet._

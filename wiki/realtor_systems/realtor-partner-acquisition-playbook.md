@@ -15,9 +15,11 @@ updated: 2026-05-24
 **not enough realtor partners** — by converting the realtors he meets through his active
 builder developments into a **durable, ongoing partner roster.**
 
-> ⏳ **Time-sensitive.** The builder account is finite — when the projects sell out, that
-> pipeline ends. The window to harvest realtor relationships from it is **now.** Every
-> agent who walks a buyer through these developments is a warm partner prospect.
+> ⏳ **Time-sensitive — ~12–18 month window.** The builder account sells out in ~1–1.5
+> years, then that pipeline ends. The window to harvest realtor relationships from it is
+> **now.** Every agent who walks a buyer through these developments is a warm partner
+> prospect — and John has a captive shot at them via the mandatory pre-approval
+> (see [[wiki/builder_systems/preferred-lender-conversion-system]]).
 
 ## The strategic logic
 1. John is the lender on active developments → realtors bring *their* buyers there.
