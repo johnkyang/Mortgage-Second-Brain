@@ -14,6 +14,17 @@ Entry format:
 
 ---
 
+## 2026-05-24 — Stood up the ClickUp Content Pipeline (LIVE)
+- Added/changed: Created "Content Pipeline" list in John's *Mortgage Content Marketing*
+  ClickUp space (id `901416713938`) + a START-HERE guide task + 6 tasks (the batch-01 scripts,
+  each with a production checklist). Recorded in [[wiki/content_systems/content-engine]] +
+  [[AUTOMATION_ROADMAP.md]].
+- Learned/insight: John already has content infra (Viral Content System folder) — placed the
+  pipeline cleanly in the same space to avoid disruption; offered to move/merge.
+- Gaps/opportunities: MCP can't define custom board statuses → John sets them in UI (1 min);
+  could add subtasks/custom fields later. Confirm editor/VA to assign tasks to.
+- Next action: John sets board statuses + films the 6; assign edit/thumbnail/caption to a VA.
+
 ## 2026-05-24 — Compliance hardening + first English script batch
 - Added/changed: John flagged he can't promise outcomes. Hardened the content compliance
   rule across [[wiki/concepts/persuasion-content-frameworks]], [[wiki/content_systems/script-template]],

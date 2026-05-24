@@ -22,6 +22,9 @@ whether it touches one of the 6 levers. Build highest-ROI first.
 - [ ] Weekly "what got smarter" digest from `LOG.md`.
 
 ## Phase 2 — Content engine
+- [x] **ClickUp Content Pipeline LIVE** — "Content Pipeline" list in *Mortgage Content
+  Marketing* (id `901416713938`), seeded with START-HERE + 6 batch-01 script tasks.
+  Built 2026-05-24. (TODO: set board statuses in UI.)
 - [ ] Transcript → hooks + scripts + captions (CONTENT_STRATEGY).
 - [ ] Repurposing pipeline: 1 long-form → shorts/posts/email.
 - [ ] Comment/DM mining → new objections into `/raw/objections`.

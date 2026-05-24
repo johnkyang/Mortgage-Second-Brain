@@ -56,8 +56,12 @@ Idea bank → pick belief target → Hook → Script (template) → BATCH RECORD
 - Edit/repurpose: CapCut, Descript, Opus Clip — `TODO: confirm`.
 - Thumbnails: Canva templates — `TODO`.
 - Scheduling: Later/Metricool/Buffer — `TODO`.
-- Pipeline tracking: **ClickUp board** (idea → scripted → filmed → edited → posted). Claude
-  can stand this up on request (see [[AUTOMATION_ROADMAP.md]]).
+- Pipeline tracking: **ClickUp — LIVE.** "Content Pipeline" list in the *Mortgage Content
+  Marketing* space (list id `901416713938`,
+  https://app.clickup.com/9014120660/v/l/li/901416713938). Seeded with a START-HERE guide +
+  the 6 batch-01 scripts as tasks (each with a production checklist). **Manual 1-min step:**
+  set board statuses `Idea → Scripted → To Film → Editing → Thumbnail/Caption → Scheduled →
+  Posted` in the ClickUp UI.
 
 ## KPIs
 Videos posted/wk · views · saves/shares · profile visits · DMs/comments started · leads
