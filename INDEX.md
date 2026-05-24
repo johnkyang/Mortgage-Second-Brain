@@ -56,6 +56,7 @@ _None yet._
 _See the eight strategy hubs above. Sub-systems to be built in `/wiki/*_systems`._
 
 ### Syntheses (cross-cutting insights)
+- [[wiki/syntheses/growth-flywheel-and-priorities]] — ★ capstone: the flywheel + ranked priorities
 - [[wiki/syntheses/lead-strategy-scale-referrals-first]] — top lead priority: scale referrals first
 
 ### Sales systems (built)

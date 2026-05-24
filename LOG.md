@@ -14,6 +14,16 @@ Entry format:
 
 ---
 
+## 2026-05-24 — Capstone synthesis: the growth flywheel + ranked priorities
+- Added/changed: Built [[wiki/syntheses/growth-flywheel-and-priorities]] tying together the
+  two edges, the builder gateway, give-first, and the lead engine into one self-reinforcing
+  flywheel, with a 6-step ROI-ranked action plan; registered in index.
+- Learned/insight: The flywheel resolves all three problems at once (leads bottleneck, best
+  clients = referrals, gap = realtor partners). Key dependency: a reliable buyer-flow source
+  so "give first" always has ammo → content + database are the fuel.
+- Gaps/opportunities: Buyer-flow source; names/details; how trust was earned.
+- Next action: Identify buyers John can give the top agent now; then execute priorities 1–2.
+
 ## 2026-05-24 — Unlock: win the top agent by GIVING first (reciprocity)
 - Added/changed: Past deals from the top agent were reciprocal (John referred clients TO
   him); he's chased by everyone; no known exclusive lender. Created concept
