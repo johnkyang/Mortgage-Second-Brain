@@ -14,6 +14,19 @@ Entry format:
 
 ---
 
+## 2026-05-24 — Correction: top realtor is an underdeveloped target, not a top referrer
+- Added/changed: Reality check — the top agent sends little referral now; gave John some
+  deals years ago at a bank; reconnected via the project. Reframed
+  [[wiki/entities/top-realtor-champion]] (current state + a 5-step conversion plan using the
+  shared project as the audition), and updated [[REALTOR_STRATEGY.md]] + index accordingly.
+- Learned/insight: Don't overstate the relationship — it's the highest-POTENTIAL but
+  underdeveloped. The 119-home project is a rare, time-boxed chance to convert the market's
+  #1 agent by being flawless + showcasing the deal-advocate edge on their builder buyers.
+- Gaps/opportunities: Why did flow drop after the bank move? What does this agent value in a
+  lender? Is the door open to handle their resale buyers?
+- Next action: Execute the conversion plan on the shared project; re-earn trust → ask for
+  resale buyers + intros.
+
 ## 2026-05-24 — Origin story: top realtor + Chinese-language edge (2nd differentiator)
 - Added/changed: Captured how John got onto the projects — builder uses his company; the
   TOP market realtor (listed the builder's 119 homes) invited him onto project 1; he

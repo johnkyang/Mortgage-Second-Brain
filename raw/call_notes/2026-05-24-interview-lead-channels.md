@@ -62,6 +62,14 @@ tags: [interview, leads, builder, realtor, strategy]
 - Two assets revealed: **(1) the top realtor = John's #1 relationship/super-connector;
   (2) Chinese-language ability = a core differentiator** (won him a development).
 
+### Addendum 6 (2026-05-24) — reality check on the top realtor
+- The top agent currently sends John **NOT much referral business.**
+- He gave John **some deals in the past, when John was at a bank.**
+- Reconnected via the builder project (the agent invited John on).
+- → Relationship is **warm history + current proximity but LOW active flow.** It's the
+  **highest-potential, underdeveloped** relationship, not a current top referrer. The shared
+  119-home project is the audition to convert him into an ongoing partner (resale + intros).
+
 
 ---
 

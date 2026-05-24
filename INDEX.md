@@ -42,7 +42,7 @@ _None yet._
 ### Entities (people, companies, programs, neighborhoods)
 - [[wiki/entities/john-yang]] — business owner; center of the graph
 - [[wiki/entities/builder-account-primary]] — top account; 1-of-2 preferred lender (finite, ~12–18 mo)
-- [[wiki/entities/top-realtor-champion]] — ⭐ #1 relationship; top market agent who brought John in
+- [[wiki/entities/top-realtor-champion]] — ⭐ #1 conversion target; top market agent (warm but low current flow)
 - [[wiki/entities/cordova-development]] — 2nd development (won via Chinese-language edge)
 
 ### Concepts (frameworks, objections, emotional patterns)

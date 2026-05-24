@@ -19,11 +19,12 @@ updated: 2026-05-24
 > [[wiki/realtor_systems/realtor-partner-acquisition-playbook]] + convert them with the
 > [[wiki/realtor_systems/realtor-contact-to-partner-conversion]] engine before sell-out.
 
-> ⭐ **Highest-ROI single relationship:** the **top realtor in the market**
-> ([[wiki/entities/top-realtor-champion]]) — listed the builder's 119 homes and invited John
-> onto the project. Deepen this into being their #1 lender across ALL their business (not just
-> the builder), and earn intros to other top agents. Much of John's current position traces to
-> this one relationship — nurture and protect it deliberately.
+> ⭐ **Highest-POTENTIAL relationship (currently underdeveloped):** the **top realtor in the
+> market** ([[wiki/entities/top-realtor-champion]]) — listed the builder's 119 homes and
+> invited John on, and gave John some deals years ago (at a bank), but **sends little
+> referral now.** John is working right next to them on the project → use it as the audition
+> to convert them into the agent's #1 lender across ALL their business (resale + intros).
+> This is a #1 conversion TARGET, not a banked asset.
 
 ## The partner thesis
 A great LO partner makes the realtor's deals **close faster, with fewer surprises, and
