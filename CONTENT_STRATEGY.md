@@ -25,6 +25,9 @@ know that was possible" moment.
 - **Realtors & builders** (B2B authority + co-marketing)
 
 ## Core content pillars
+0. **Deal-advocate proof** — "how I got my buyer the builder's price + concessions + a rate
+   buydown the bank couldn't" → John's #1 differentiator as content
+   (see [[wiki/concepts/builder-deal-advocate]]). High authority + trust.
 1. **Affordability & DPA** — "you may need less than you think" (see [[DPA_STRATEGY.md]]).
 2. **First-time buyer education** — demystify the process, reduce fear.
 3. **Reverse mortgage truth-telling** — bust myths (see [[REVERSE_MORTGAGE_STRATEGY.md]]).

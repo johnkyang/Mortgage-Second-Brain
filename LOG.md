@@ -14,6 +14,33 @@ Entry format:
 
 ---
 
+## 2026-05-24 — DIFFERENTIATOR found: John is a builder deal-advocate
+- Added/changed: Captured that John helps the sales team get the builder to accept the
+  buyer's price/concessions/buydown credits. Created concept
+  [[wiki/concepts/builder-deal-advocate]] and threaded it through the conversion system
+  (Levers 1 & 2), the anti-shopping script, the realtor acquisition pitch, the builder
+  entity, and added a #0 content pillar in [[CONTENT_STRATEGY.md]].
+- Learned/insight: This is John's defensible edge — it simultaneously wins pre-approval
+  share (reps steer to the lender who helps them close), retention (online lenders can't
+  negotiate builder concessions), realtor referrals (agents love it), and content authority.
+  Single highest-leverage thing to make explicit everywhere.
+- Gaps/opportunities: Quantify concessions/buydowns won per deal (proof for content +
+  sales). Still need pre-approval→funded %, rate competitiveness, builder name.
+- Next action: Quantify the leak + start a concessions-won log for proof/content.
+
+## 2026-05-24 — Builder routing = buyer's choice + NO incentive (no lock-in)
+- Added/changed: Updated [[wiki/builder_systems/preferred-lender-conversion-system]] Levers
+  1 & 2 for buyer's-choice routing + no incentive; built retention script
+  [[wiki/scripts/why-use-me-vs-shopping]]; updated builder entity + index.
+- Learned/insight: No structural lock-in → John competes purely on visibility/speed/
+  capability (to win share) and relationship/trust/certainty/price (to keep the loan). The
+  SAME fast, high-trust pre-approval experience wins both share AND retention — one
+  investment, two payoffs. Pre-approval→funded % is the #1 KPI for this account.
+- Gaps/opportunities: Need current pre-approval→funded % (leak size), rate competitiveness,
+  builder name + sales-rep contacts. Anti-shopping framing should be said at pre-approval.
+- Next action: Quantify the pre-approval→funded leak; confirm rate competitiveness to tune
+  the retention narrative; get builder name to stand up the tracker.
+
 ## 2026-05-24 — Builder structure: captive pre-approval + 12–18 mo window
 - Added/changed: Recorded that John is 1 of 2 on-site preferred lenders, buyers must
   pre-approve with one of them but aren't required to use them, and projects sell out in

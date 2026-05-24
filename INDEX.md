@@ -46,6 +46,7 @@ _None yet._
 ### Concepts (frameworks, objections, emotional patterns)
 - [[wiki/concepts/six-business-levers]] — the universal prioritization filter
 - [[wiki/concepts/cost-of-waiting]] — rate-objection reframe (seed)
+- [[wiki/concepts/builder-deal-advocate]] — ★ John's core differentiator (price/concessions/buydowns)
 
 ### Strategies & Systems
 _See the eight strategy hubs above. Sub-systems to be built in `/wiki/*_systems`._
@@ -63,8 +64,8 @@ _See the eight strategy hubs above. Sub-systems to be built in `/wiki/*_systems`
 - [[wiki/realtor_systems/realtor-partner-acquisition-playbook]] — ⏳ harvest realtors via the builder gateway (time-sensitive)
 - [[wiki/builder_systems/preferred-lender-conversion-system]] — ⏳ win pre-approval share + convert to funded (top account)
 
-### Scripts / Offers / Campaigns / Playbooks / Automations
-_None yet._
+### Scripts (built)
+- [[wiki/scripts/why-use-me-vs-shopping]] — retention / anti-shopping (no lock-in on builder account)
 
 ---
 

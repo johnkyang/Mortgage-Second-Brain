@@ -58,6 +58,10 @@ Agent brings a buyer to the development
 > construction — down payment programs, self-employed/bank-statement, investors. I'd love to
 > be a go-to lender for your other buyers too. Can I send a quick one-pager / grab 15 min?"
 
+**★ Lead with the deal-advocate edge:** agents refer the lender who gets *their* buyer a
+better deal and makes the transaction close. John helping negotiate builder price/
+concessions/buydowns is a powerful magnet — see [[wiki/concepts/builder-deal-advocate]].
+
 ### 4. Maximize touchpoints via the builder (while it's active)
 - Ask the builder for **preferred-lender status** + (if possible) **on-site presence** at
   the developments → more agent introductions per week.

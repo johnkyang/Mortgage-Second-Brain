@@ -22,6 +22,11 @@ updated: 2026-05-24
 - Buyers are **NOT required to use** a preferred lender for the loan (can shop).
 - **Runway: ~1–1.5 years** until projects sell out (finite — concentration risk).
 
+## John's edge here
+**Deal-advocate:** John helps the sales team persuade the builder on price, concessions, and
+buy-down credits → wins sales-rep advocacy (share) + buyer loyalty (retention).
+See [[wiki/concepts/builder-deal-advocate]].
+
 ## Strategic role
 - **Lead source (now):** top of funnel via mandatory pre-approvals.
 - **Realtor-acquisition gateway:** every buyer's agent is a warm partner prospect →
@@ -36,8 +41,8 @@ pre-approval→funded conversion, realtor harvest).
 - Builder name / company: `TODO`
 - Communities + locations + price points: `TODO`
 - Co-preferred lender (the competitor): `TODO`
-- How buyers are routed between the 2 lenders: `TODO`
-- Builder incentive for using preferred lender? `TODO`
+- How buyers are routed between the 2 lenders: **Buyer's choice** (confirmed 2026-05-24)
+- Builder incentive for using preferred lender? **None** (confirmed 2026-05-24) → no lock-in
 - John's current pre-approval share + pre-approval→funded %: `TODO`
 - On-site sales rep contacts: `TODO` (key gatekeepers)
 

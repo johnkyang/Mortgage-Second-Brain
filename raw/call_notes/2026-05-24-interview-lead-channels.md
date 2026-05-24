@@ -29,6 +29,13 @@ tags: [interview, leads, builder, realtor, strategy]
 - **Sell-out timeline: ~1 to 1.5 years** → the window to harvest realtors + maximize the
   account is ~12–18 months.
 
+### Addendum 2 (2026-05-24) — John's differentiator at the builder
+- John **helps the on-site sales team persuade the builder** to accept the buyer's price,
+  concessions, and **buy-down credits** — helping the buyer get the terms they want.
+- I.e. John acts as a **deal-maker / buyer advocate**, not just a rate quoter. This makes
+  sales reps want to work with him (he helps them close) AND gives buyers a concrete reason
+  to use him over an outside lender (who can't negotiate builder concessions).
+
 ---
 
 ## Claude processing block
