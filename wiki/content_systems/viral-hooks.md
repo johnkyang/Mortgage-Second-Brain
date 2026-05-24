@@ -25,9 +25,10 @@ hooks — not "here are 3 tips." Personalize brackets. Keep every claim true (co
 - "Most loan officers won't say this out loud…"
 
 ## 3. Curiosity gap / open loop
-- "I got my buyer $23,000 in concessions. Here's exactly how." *(use real, verifiable #s)*
+- "Here's how I helped ONE buyer get [$X] off a new build." *(true past story; add "every
+  situation's different" — never imply the viewer will get the same)*
 - "There's a program almost no one in [city] is using…"
-- "The one question that tells me if you'll get approved."
+- "The one question I ask every buyer before we start."
 
 ## 4. Fear-reversal
 - "The thing scaring you out of buying is the thing costing you the most."
@@ -51,4 +52,7 @@ hooks — not "here are 3 tips." Personalize brackets. Keep every claim true (co
 
 ## Usage
 Pair a hook with a belief target → feed [[wiki/content_systems/script-template]]. Track which
-hooks drive DMs; promote winners. ⚠️ Only use real numbers/claims you can substantiate.
+hooks drive DMs; promote winners.
+⚠️ **No promised outcomes.** Use only real, substantiated numbers as PAST results ("I helped
+one buyer…"), never as a promise to the viewer. Sell advocacy/effort. See
+[[wiki/concepts/persuasion-content-frameworks]] compliance guardrail.

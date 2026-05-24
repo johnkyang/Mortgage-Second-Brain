@@ -49,4 +49,6 @@ long-form = expand the story + proof. Keep all claims true (compliance).
 ## Reminders
 - ONE belief target per video. Emotion first, logic second.
 - Open a loop early, close it late. Cut filler — earn every second.
-- ⚠️ True claims only; no guarantees; anonymize clients. See [[CLAUDE.md]] §8.
+- ⚠️ **No promised outcomes.** Sell advocacy/effort, not results. Real wins = past,
+  anonymized, with "every situation is different." Never tell the viewer "I'll get YOU X."
+  True claims only; no guarantees; permission for client stories. See [[CLAUDE.md]] §8.

@@ -101,6 +101,14 @@ tags: [interview, leads, builder, realtor, strategy]
   (strong signal: production friction / doing it all himself = burnout → the system must
   delegate edit/thumbnail/caption).
 
+### Addendum 10 (2026-05-24) — content compliance constraint
+- John **cannot promise what buyers will get** (no guarantees of concessions, buydowns,
+  savings, approval, or rate).
+- → All content must sell **advocacy/effort** ("I go to bat for my buyers"), not promised
+  outcomes. Real results only as **past, anonymized stories** with "every situation is
+  different / results vary" — never a commitment to the viewer.
+- First batch language: **English.**
+
 
 ---
 

@@ -27,11 +27,11 @@ buyer the builder's price, concessions, and buy-down credits
 (see [[wiki/concepts/builder-deal-advocate]]). Set the expectation *before* a competitor's
 quote shows up, so you're the trusted advisor, not the one playing catch-up.
 
-## The strongest hook (deal-advocate)
+## The strongest hook (deal-advocate) — advocacy-framed, no promises
 > "Quick thing most buyers don't realize: I'm not just your lender — I work with the sales
-> team to get the builder to come down on price, add concessions, and fund a rate buydown.
-> An online lender can't do any of that. If you take a slightly lower quote elsewhere, you
-> can actually lose far more in concessions and buydown than you'd ever save on rate."
+> team and advocate with the builder on price, concessions, and buydowns. I can't promise any
+> specific outcome — every deal is different — but an online lender isn't even in the room to
+> try. That advocacy can be worth far more than a slightly lower quote on paper."
 
 ## Proactive framing (say this at pre-approval — get ahead of the shopping)
 > "[Name], one heads-up so you're never caught off guard: once you're pre-approved, you may

@@ -14,6 +14,20 @@ Entry format:
 
 ---
 
+## 2026-05-24 — Compliance hardening + first English script batch
+- Added/changed: John flagged he can't promise outcomes. Hardened the content compliance
+  rule across [[wiki/concepts/persuasion-content-frameworks]], [[wiki/content_systems/script-template]],
+  [[wiki/content_systems/viral-hooks]], and [[wiki/scripts/why-use-me-vs-shopping]] (sell
+  advocacy/effort, not results; real wins = past + anonymized + "every situation differs";
+  never "I'll get YOU X"). Wrote [[wiki/content_systems/script-batch-01-english]] — 6
+  ready-to-film scripts (20%-down lie, cost of waiting, lender-in-the-room, self-employed,
+  cheapest-rate, reverse myth), all compliant.
+- Learned/insight: Deal-advocate content must be advocacy-framed, not outcome-promised — this
+  keeps the edge AND stays compliant. Batch is the restart trigger.
+- Gaps/opportunities: Need a real anonymized win (with "results vary") to strengthen script
+  #3; confirm editor/VA + tools to film + hand off.
+- Next action: John batch-records these 6 → hand off post-production; then Chinese versions.
+
 ## 2026-05-24 — Built the persuasion-first Content Engine
 - Added/changed: John wants non-generic, persuasion-driven video (Brunson + Bernays), is
   comfortable on camera, needs edit/thumbnail/caption help, did 2–3/wk for 1yr then stopped.

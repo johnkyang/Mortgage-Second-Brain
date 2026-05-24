@@ -57,9 +57,16 @@ desire. That gap is John's content moat — and he's comfortable on camera to ex
 - **Chinese-language pillar:** same frameworks, in Chinese — near-zero competition
   ([[wiki/concepts/chinese-language-edge]]).
 
-## ⚠️ Compliance guardrail
-Persuasion applied to **true** messages only. No guarantees, no fabricated results, no
-misleading rate/term claims. Anonymize client stories. See [[CLAUDE.md]] §8.
+## ⚠️ Compliance guardrail (read before every post)
+Persuasion applied to **true** messages only.
+- **NEVER promise an outcome** — no guarantees of concessions, buydowns, savings, approval,
+  or a specific rate to the viewer. ("I can't promise what buyers will get." — John, 2026-05-24)
+- **Sell advocacy/effort, not results:** "I go to bat for my buyers / I build the case with
+  the builder" — what you DO, not what they'll get.
+- **Real results = past, anonymized stories only,** with a clear "every situation is
+  different / results vary." A true past fact ("here's what we did for one buyer") is fine; a
+  promise to the viewer ("I'll get YOU this") is not.
+- No misleading rate/term claims; get permission for client stories. See [[CLAUDE.md]] §8.
 
 ## Connected to
 - Operationalized by [[wiki/content_systems/content-engine]] + [[wiki/content_systems/script-template]] + [[wiki/content_systems/viral-hooks]].

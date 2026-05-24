@@ -80,6 +80,7 @@ _See the eight strategy hubs above. Sub-systems to be built in `/wiki/*_systems`
 - [[wiki/content_systems/viral-hooks]] — persuasion hook library
 - [[wiki/content_systems/script-template]] — Hook-Story-Offer script template
 - [[wiki/content_systems/thumbnail-and-caption-system]] — edit/thumbnail/caption delegation specs
+- [[wiki/content_systems/script-batch-01-english]] — 6 ready-to-film scripts (restart set)
 
 ### Scripts (built)
 - [[wiki/scripts/why-use-me-vs-shopping]] — retention / anti-shopping (no lock-in on builder account)
