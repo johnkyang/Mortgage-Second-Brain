@@ -40,6 +40,13 @@ updated: 2026-05-24
 Both edges accelerate **every** step. The **finite builder account** is the time-boxed
 accelerant that seeds the partner roster (steps 2–3) before it sells out (~12–18 mo).
 
+> **Scarcity guardrail:** John can only generate buyer-referrals for a FEW partners, so
+> step 2's *buyer-give* is concentrated on A-tier targets (e.g. the top agent). Most partners
+> are won with **scalable, non-depleting gives** (deal-advocate service + Chinese language +
+> education) — not buyer-referrals. Don't set a feed-you-leads expectation you can't meet.
+> See [[wiki/concepts/give-first-reciprocity]]. This is also why steps 1, 4, 5 (growing
+> buyer flow) matter — they expand how much John can afford to give.
+
 ## The core problem statement
 Bottleneck = **leads**. Best clients = **referrals**. Biggest gap = **not enough realtor
 partners**. The flywheel solves all three at once: buyer flow → fuels give-first → wins

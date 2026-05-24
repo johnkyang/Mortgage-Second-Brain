@@ -18,9 +18,12 @@ referrals — John's top-quality channel.
 communicates proactively, and makes them look like a hero to their client.** This framework
 makes John that LO — by system, not luck.
 
-> **Default posture: GIVE FIRST.** Especially with in-demand agents (everyone's chasing
-> them), be a referral *source* before you ask — it inverts the dynamic and triggers
-> reciprocity. See [[wiki/concepts/give-first-reciprocity]].
+> **Default posture: GIVE FIRST — but tier it.** Buyer-referrals are scarce → reserve them
+> for a few A-tier targets. With everyone else, lead with **scalable gives** (close their
+> deals via deal-advocacy, serve buyers they can't via Chinese, education/co-marketing) so
+> you never set a referral expectation you can't meet. Default value prop = *"I close your
+> deals + serve buyers you can't,"* not *"I'll feed you leads."*
+> See [[wiki/concepts/give-first-reciprocity]].
 
 ## The referral psychology (what agents actually want)
 1. **Certainty** — deals close on time; no surprises that blow up their commission.
@@ -42,10 +45,15 @@ Target agents whose business fits John's edge:
 → Track each as an entity in `/wiki/entities`; tier them **A / B / C** by fit + volume.
 
 ### 2. Connect + give value FIRST (before asking for anything)
+Scalable gives (use with everyone — don't deplete, don't set referral expectations):
 - Offer co-branded buyer education (DPA / first-time-buyer roadmaps).
 - Run a lunch-and-learn on programs that help them close more buyers.
-- **Bring them a buyer** from John's content/database (the ultimate door-opener).
-- Fast, same-day pre-approvals for their pipeline.
+- Fast, same-day pre-approvals + the deal-advocate edge on the deals THEY bring.
+- Serve their Chinese-speaking buyers in-language.
+
+Scarce give (A-tier targets only — see [[wiki/concepts/give-first-reciprocity]]):
+- **Bring them a buyer** from John's content/database (the ultimate door-opener) — reserve
+  for the few highest-ROI partners, since buyer supply is limited.
 
 ### 3. First co-deal → prove reliability
 The first shared deal is the audition. Win it with:

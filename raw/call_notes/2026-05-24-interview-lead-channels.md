@@ -80,6 +80,15 @@ tags: [interview, leads, builder, realtor, strategy]
 - Implication: win him with **reciprocity (send him buyers) + deal-advocate edge (close his
   deals) + Chinese-language edge (serve buyers he can't)** — not by asking harder.
 
+### Addendum 8 (2026-05-24) — constraint on giving referrals
+- John can only generate enough opportunities/referrals to give to **a FEW** partners.
+- He **does NOT want all partners to expect referrals from him** (unsustainable expectation).
+- → Buyer-referrals = **scarcest currency.** Tier giving: reserve buyer-referrals for a few
+  A-tier targets (e.g. the top agent); for everyone else, give **scalable, non-depleting
+  value** that doesn't set a referral expectation — close THEIR buyers better (deal-advocate),
+  serve buyers they CAN'T (Chinese), make them look good. Default partner value prop is
+  service + edges, NOT "I'll feed you deals."
+
 
 ---
 

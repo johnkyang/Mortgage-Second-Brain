@@ -35,6 +35,10 @@ who controls major listings.
 The proven lever with him is **reciprocity** — John's past deals came because John **referred
 clients TO him.** He's in high demand (everyone *asks*); the way to stand out is to **give,
 not chase.** See [[wiki/concepts/give-first-reciprocity]].
+
+> **He is THE A-tier exception** worth spending John's scarce buyer-referrals on. Most
+> partners get scalable service-gives; he gets actual buyers because the ROI (his volume +
+> intros) justifies the scarce currency.
 1. **Send him buyers** — from content, database, builder traffic. Be a referral SOURCE first.
    This is the #1 move; it inverts the dynamic.
 2. **Make his deals close** — deal-advocate edge ([[wiki/concepts/builder-deal-advocate]]):

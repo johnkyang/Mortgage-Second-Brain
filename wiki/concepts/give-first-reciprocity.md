@@ -27,6 +27,28 @@ referred clients TO him.*
 - Pair giving with being **uniquely useful** (do something others can't) so you're not just
   generous — you're irreplaceable.
 
+## ⚠️ Tier your giving — buyer-referrals are SCARCE currency
+John can only generate enough buyer-referrals for **a few** partners. Critical guardrail:
+**don't let "I send buyers" become your blanket reputation** — every partner will expect it,
+which is unsustainable and sours relationships when unmet.
+- **Reserve buyer-referrals (scarcest currency) for a FEW A-tier targets** where ROI is
+  highest (e.g. [[wiki/entities/top-realtor-champion]]).
+- **Win everyone else with SCALABLE gives** that don't deplete and don't set a referral
+  expectation (below).
+- Be deliberate: your **default** partner value prop is *"I close your deals + serve buyers
+  you can't,"* NOT *"I'll feed you leads."*
+
+## Scalable gives (don't deplete, don't create referral expectations)
+These are John's edges turned into giving — usable with every partner:
+- **Deal-advocate service** — get THEIR buyers concessions/buydowns so deals close + they
+  look great ([[wiki/concepts/builder-deal-advocate]]). Value on deals they already bring.
+- **Chinese-language service** — serve buyers they can't
+  ([[wiki/concepts/chinese-language-edge]]).
+- **Fast, communicative process** — make them the hero to their client.
+- **Education + co-marketing** — lunch-and-learns, program expertise (DPA/non-QM), co-branded
+  content, market intel, one-pagers.
+These make John *uniquely useful* without spending his scarce buyer supply.
+
 ## How John applies it (esp. to the [[wiki/entities/top-realtor-champion]])
 1. **Send them buyers** — from content, database, builder traffic. The ultimate door-opener.
 2. **Make their deals close** — deal-advocate edge ([[wiki/concepts/builder-deal-advocate]])

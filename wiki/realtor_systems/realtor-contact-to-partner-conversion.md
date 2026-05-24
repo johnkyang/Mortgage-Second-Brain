@@ -47,8 +47,10 @@ the sequence → **Dormant** (drop to a monthly value-only nurture).
   Connect on social; invite to a lunch-and-learn or offer a quick coffee. Light, no ask.
 
 - **T+2 weeks — value drop #2 (give, don't take).**
-  Send local market intel, a program update, OR — best — **bring them a buyer** from John's
-  database/content. Bringing a buyer is the fastest trust-builder.
+  Default (scalable, for everyone): local market intel, a program update, an invite, or the
+  deal-advocate edge on a deal they bring. **A-tier only:** bring them a buyer — the fastest
+  trust-builder, but buyer supply is scarce so reserve it for top targets (see
+  [[wiki/concepts/give-first-reciprocity]]).
 
 - **T+3–4 weeks — the explicit ask.**
   > "[Agent], I'd love to be a go-to lender for your buyers. Next time you've got someone —

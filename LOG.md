@@ -14,6 +14,18 @@ Entry format:
 
 ---
 
+## 2026-05-24 — Constraint: tier the giving (buyer-referrals are scarce)
+- Added/changed: John can only refer to a few partners + doesn't want all partners expecting
+  referrals. Updated [[wiki/concepts/give-first-reciprocity]] with tiering + scalable
+  non-depleting gives; reframed the realtor referral framework + conversion engine (default =
+  service/edge gives; buyer-referrals = A-tier only); marked the top agent as THE A-tier
+  exception; added a scarcity guardrail to the flywheel synthesis.
+- Learned/insight: Default partner value prop = "I close your deals + serve buyers you can't,"
+  NOT "I'll feed you leads." Buyer-referrals are scarce currency, concentrated on a few.
+  Growing buyer flow (content/database) raises John's capacity to give.
+- Gaps/opportunities: Define A-tier criteria + how many buyer-gives John can sustain/mo.
+- Next action: Identify A-tier targets; lead all others with scalable service-gives.
+
 ## 2026-05-24 — Capstone synthesis: the growth flywheel + ranked priorities
 - Added/changed: Built [[wiki/syntheses/growth-flywheel-and-priorities]] tying together the
   two edges, the builder gateway, give-first, and the lead engine into one self-reinforcing
