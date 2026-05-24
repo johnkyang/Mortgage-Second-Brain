@@ -15,6 +15,10 @@ updated: 2026-05-24
 persuade the builder** to accept the buyer's price, concessions, and **buy-down credits**,
 getting the buyer the terms they want.
 
+**The mechanism:** the builder trusts John's suggestions, and John holds the buyer's
+qualification math — so he builds a credible case for *why the buyer needs these terms to
+qualify and buy.* Full method → [[wiki/playbooks/deal-advocate-playbook]].
+
 **Why it matters:** This is a rare, defensible competitive edge. It converts John from a
 commodity ("which lender has the lowest rate?") into an **advocate who gets the buyer a
 better deal** — something an online/outside lender structurally cannot do. It powers

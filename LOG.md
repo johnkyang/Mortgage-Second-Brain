@@ -14,6 +14,20 @@ Entry format:
 
 ---
 
+## 2026-05-24 — Extracted the deal-advocate METHOD (now a replicable playbook)
+- Added/changed: Captured the mechanism (builder trusts John's read + John holds the
+  qualification math → he builds the case for the buyer's terms). Built
+  [[wiki/playbooks/deal-advocate-playbook]] (5-step method, framed builder-agnostic);
+  linked from the concept; added "beat the finite clock" (extend to next projects +
+  replicate with new builders) to [[BUILDER_STRATEGY.md]]; registered in index.
+- Learned/insight: The differentiator is a repeatable METHOD, not just a trait → it can win
+  NEW builder accounts, which is the durable answer to the ~12–18 mo concentration risk.
+  Program breadth (DPA/non-QM) is the ammunition for case-building.
+- Gaps/opportunities: How John originally earned builder trust (to replicate); which ask
+  lands most (price/concession/buydown); 1–2 concrete wins for proof/content.
+- Next action: Extract how he earned the trust + a real win example → harden the playbook +
+  produce the first deal-advocate content piece.
+
 ## 2026-05-24 — DIFFERENTIATOR found: John is a builder deal-advocate
 - Added/changed: Captured that John helps the sales team get the builder to accept the
   buyer's price/concessions/buydown credits. Created concept

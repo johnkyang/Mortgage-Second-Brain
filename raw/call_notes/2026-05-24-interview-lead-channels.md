@@ -36,6 +36,15 @@ tags: [interview, leads, builder, realtor, strategy]
   sales reps want to work with him (he helps them close) AND gives buyers a concrete reason
   to use him over an outside lender (who can't negotiate builder concessions).
 
+### Addendum 3 (2026-05-24) — HOW the deal-advocacy works (the mechanism)
+- **The builder trusts John's suggestions.** His word carries weight with the builder.
+- John **builds the case for the buyer** — he frames *why the buyer needs specific terms
+  (price, concessions, buydown) in order to qualify and buy.*
+- Mechanism: John leverages being the lender (he holds the qualification math) + the
+  builder's trust to credibly show "give this term → the buyer qualifies → the sale closes."
+  He sells the builder on the path to closing, not just a discount.
+
+
 ---
 
 ## Claude processing block

@@ -64,6 +64,9 @@ _See the eight strategy hubs above. Sub-systems to be built in `/wiki/*_systems`
 - [[wiki/realtor_systems/realtor-partner-acquisition-playbook]] — ⏳ harvest realtors via the builder gateway (time-sensitive)
 - [[wiki/builder_systems/preferred-lender-conversion-system]] — ⏳ win pre-approval share + convert to funded (top account)
 
+### Playbooks (built)
+- [[wiki/playbooks/deal-advocate-playbook]] — ★ how John wins buyers better builder terms (replicable)
+
 ### Scripts (built)
 - [[wiki/scripts/why-use-me-vs-shopping]] — retention / anti-shopping (no lock-in on builder account)
 

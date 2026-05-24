@@ -36,9 +36,19 @@ Identify active projects → Meet sales team → Pilot buyers → Reliability �
 ```
 
 ## Differentiators to lean on
+- **★ Deal-advocate method** (John's signature edge): earns builder trust + holds the
+  qualification math → builds the case for buyer price/concessions/buydowns. Repeatable with
+  new builders. See [[wiki/playbooks/deal-advocate-playbook]] + [[wiki/concepts/builder-deal-advocate]].
 - DPA expertise → unlocks buyers who think they can't afford new construction.
 - Non-QM / bank statement → self-employed buyers in new communities.
 - Fast, communicative process → protects builder's close dates.
+
+## Beat the finite clock (diversify the builder channel)
+The current top builder sells out in ~12–18 mo. Two moves to make the channel durable:
+1. **Extend:** the builder trusts John → pursue preferred-lender status on the builder's
+   **next projects** before these sell out.
+2. **Replicate:** run the deal-advocate method to **win NEW builder accounts** — turning a
+   one-off relationship into a repeatable builder-acquisition motion.
 
 ## Track each builder/project
 Entity per builder + per project in `/wiki/entities`; raw notes in
