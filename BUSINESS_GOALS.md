@@ -32,11 +32,12 @@ Every output should move at least one: **Revenue · Leads · Appointments · Tru
 First-time buyers · CA down payment assistance · Reverse mortgages · Non-QM · DSCR ·
 Bank statement · No-income/no-employment loans · Real estate wealth strategies.
 
-## Current priorities — _TODO: confirm with John_
-> These are placeholders until validated in interview.
-- [ ] Q-priority #1: `TODO`
-- [ ] Q-priority #2: `TODO`
-- [ ] Q-priority #3: `TODO`
+## Current priorities (set 2026-05-24)
+> **#1 bottleneck = LEADS** (not enough qualified prospects). Priority order:
+1. **Generate more qualified leads** → [[CONTENT_STRATEGY.md]] + [[LEAD_GENERATION.md]]
+   (authority content, DPA / first-time-buyer lead magnets, capture funnels).
+2. **Support: convert the new leads** → [[SALES_SYSTEM.md]] (so new volume doesn't leak).
+3. **Support: partner referral flow** → [[REALTOR_STRATEGY.md]] / [[BUILDER_STRATEGY.md]].
 
 ## Key metrics to track — _TODO: set baselines_
 | Metric | Current | Target | Notes |
@@ -51,8 +52,9 @@ Bank statement · No-income/no-employment loans · Real estate wealth strategies
 | Funded loans / mo | `TODO` | `TODO` | |
 
 ## Open questions for John
-1. What's the #1 bottleneck right now — leads, appointments, or conversion?
-2. What's the revenue target for the next 12 months?
-3. Which product line has the best margin + the most demand?
+1. ~~#1 bottleneck?~~ → **Answered 2026-05-24: LEADS.**
+2. Where do your *best* clients consistently come from today? (channel to amplify)
+3. What's the revenue target for the next 12 months?
+4. Which product line has the best margin + the most demand?
 
 Related: [[LEAD_GENERATION.md]] · [[SALES_SYSTEM.md]] · [[CONTENT_STRATEGY.md]]

@@ -11,15 +11,20 @@ updated: 2026-05-24
 
 > Goal: a predictable, compounding flow of **qualified mortgage conversations**.
 
-## Lead source map — _TODO: confirm current mix with John_
+## Priority (set 2026-05-24)
+**Bottleneck = volume. Best clients = referrals** (realtor/partner + past clients).
+→ **Scale the referral engine first**, content amplifies it. See
+[[wiki/syntheses/lead-strategy-scale-referrals-first]].
+
+## Lead source map — _confirmed channels marked ✅; volumes TODO_
 | Source | Type | Current volume | Quality | Notes |
 |---|---|---|---|---|
-| Realtor referrals | Inbound | `TODO` | High | see [[REALTOR_STRATEGY.md]] |
+| Realtor referrals ✅ | Inbound | `TODO` | **Best** | top channel — see [[REALTOR_STRATEGY.md]] |
+| Past clients / referrals ✅ | Inbound | `TODO` | **Best** | top channel — reactivation + referral asks |
 | Builder relationships | Inbound | `TODO` | High | see [[BUILDER_STRATEGY.md]] |
-| Social content | Inbound | `TODO` | Mixed | see [[CONTENT_STRATEGY.md]] |
-| Past clients / referrals | Inbound | `TODO` | High | repeat + referral |
-| Paid ads | Inbound | `TODO` | Mixed | |
-| Database / nurture | Outbound | `TODO` | Warm | |
+| Social content | Inbound | `TODO` | Mixed | amplifier — see [[CONTENT_STRATEGY.md]] |
+| Paid ads | Inbound | `TODO` | Mixed | not a current strength |
+| Database / nurture | Outbound | `TODO` | Warm | owned asset to activate |
 
 ## The 3 inbound engines
 1. **Authority content** → DMs/comments → conversation (CONTENT_STRATEGY).

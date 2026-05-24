@@ -49,6 +49,9 @@ _None yet._
 ### Strategies & Systems
 _See the eight strategy hubs above. Sub-systems to be built in `/wiki/*_systems`._
 
+### Syntheses (cross-cutting insights)
+- [[wiki/syntheses/lead-strategy-scale-referrals-first]] — top lead priority: scale referrals first
+
 ### Scripts / Offers / Campaigns / Playbooks / Automations
 _None yet._
 

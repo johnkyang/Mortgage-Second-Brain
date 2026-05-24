@@ -14,6 +14,28 @@ Entry format:
 
 ---
 
+## 2026-05-24 — Interview: best clients = referrals → scale referral engine
+- Added/changed: Created [[wiki/syntheses/lead-strategy-scale-referrals-first]];
+  updated [[LEAD_GENERATION.md]] priority + source map (realtor + past-client referrals
+  confirmed as best channels).
+- Learned/insight: Bottleneck is volume but best clients are referral-based → fastest ROI
+  is systematizing referrals (database reactivation + referral/review asks + realtor
+  system), with content as the amplifier rather than starting cold ads.
+- Gaps/opportunities: Don't yet know database size or current referral/review behavior;
+  need top realtor partners + why they refer.
+- Next action: Ask about the past-client database + whether referral/review asks are
+  systematic today (biggest quick win). Then build referral-ask + review-gen systems.
+
+## 2026-05-24 — Interview: #1 bottleneck = LEADS
+- Added/changed: Set current priorities in [[BUSINESS_GOALS.md]] — Lead generation is the
+  top priority; Content Engine + Lead Gen lead, Sales + Partnerships support.
+- Learned/insight: John's constraint is top-of-funnel volume, not (yet) conversion or
+  partnerships. Highest ROI = authority content + lead magnets (DPA / first-time buyer).
+- Gaps/opportunities: Need current lead-source mix to know whether to amplify an existing
+  channel or build a new one. No content/lead-magnet assets exist yet.
+- Next action: Ask where his BEST clients come from today; then build the first content/
+  lead-gen assets (hook library + a DPA or first-time-buyer lead magnet).
+
 ## 2026-05-24 — System initialized
 - Added/changed: Built full Obsidian vault structure (`/raw`, `/wiki`, `/templates`),
   created `CLAUDE.md` operating system, `INDEX.md` master map, this `LOG.md`, eight
