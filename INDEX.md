@@ -50,6 +50,7 @@ _None yet._
 - [[wiki/concepts/cost-of-waiting]] — rate-objection reframe (seed)
 - [[wiki/concepts/builder-deal-advocate]] — ★ core differentiator (price/concessions/buydowns)
 - [[wiki/concepts/chinese-language-edge]] — ★ 2nd core differentiator (bilingual; won Cordova)
+- [[wiki/concepts/give-first-reciprocity]] — win in-demand partners by giving business first
 
 ### Strategies & Systems
 _See the eight strategy hubs above. Sub-systems to be built in `/wiki/*_systems`._

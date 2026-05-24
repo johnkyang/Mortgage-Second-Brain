@@ -14,6 +14,19 @@ Entry format:
 
 ---
 
+## 2026-05-24 — Unlock: win the top agent by GIVING first (reciprocity)
+- Added/changed: Past deals from the top agent were reciprocal (John referred clients TO
+  him); he's chased by everyone; no known exclusive lender. Created concept
+  [[wiki/concepts/give-first-reciprocity]]; rewrote the top-realtor conversion plan to be
+  give-first (send buyers → close his deals → serve buyers he can't → then lightly ask);
+  added a "give first" default posture to the referral framework; updated index.
+- Learned/insight: With in-demand agents, asking = joining the crowd; GIVING = standing out.
+  John's two edges (deal-advocate + Chinese language) make his giving uniquely valuable.
+- Gaps/opportunities: Need a steady supply of buyers John can send him (content/database/
+  builder overflow) — reinforces building the lead engine. What buyer types does the agent
+  most want?
+- Next action: Identify buyers John can refer to him now; lead the relationship with a give.
+
 ## 2026-05-24 — Correction: top realtor is an underdeveloped target, not a top referrer
 - Added/changed: Reality check — the top agent sends little referral now; gave John some
   deals years ago at a bank; reconnected via the project. Reframed

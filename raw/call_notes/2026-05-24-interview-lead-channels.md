@@ -70,6 +70,16 @@ tags: [interview, leads, builder, realtor, strategy]
   **highest-potential, underdeveloped** relationship, not a current top referrer. The shared
   119-home project is the audition to convert him into an ongoing partner (resale + intros).
 
+### Addendum 7 (2026-05-24) — WHY past deals came + the barrier
+- The past deals were **RECIPROCAL: John referred clients TO the agent**, and the agent gave
+  deals back. The proven lever = **John being a referral SOURCE to him.**
+- The agent **"has everyone chasing him"** — high demand; every lender is *asking* for his
+  business. To stand out, John must **give first / be the net giver**, not another chaser.
+- **No known exclusive lender** → business is spread; an opening exists for whoever brings the
+  most value (buyers + makes deals close + serves buyers others can't).
+- Implication: win him with **reciprocity (send him buyers) + deal-advocate edge (close his
+  deals) + Chinese-language edge (serve buyers he can't)** — not by asking harder.
+
 
 ---
 

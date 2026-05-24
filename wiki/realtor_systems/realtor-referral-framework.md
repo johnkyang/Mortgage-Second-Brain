@@ -18,6 +18,10 @@ referrals — John's top-quality channel.
 communicates proactively, and makes them look like a hero to their client.** This framework
 makes John that LO — by system, not luck.
 
+> **Default posture: GIVE FIRST.** Especially with in-demand agents (everyone's chasing
+> them), be a referral *source* before you ask — it inverts the dynamic and triggers
+> reciprocity. See [[wiki/concepts/give-first-reciprocity]].
+
 ## The referral psychology (what agents actually want)
 1. **Certainty** — deals close on time; no surprises that blow up their commission.
 2. **Communication** — proactive updates so they never look uninformed to their client.

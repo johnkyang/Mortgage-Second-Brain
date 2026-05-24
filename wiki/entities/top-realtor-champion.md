@@ -31,20 +31,21 @@ who controls major listings.
 - Converting this one relationship into the agent's go-to lender (resale + intros) could
   outweigh the entire builder account.
 
-## Conversion plan (use the shared project as the audition)
-Goal: move from "occasional past deals" → **the agent's #1 go-to lender** across ALL their
-business (resale, not just this builder), plus intros to other top agents.
-1. **Be flawless on every shared builder buyer** — proactive updates, hit dates, make the
-   agent the hero. Each one is proof.
-2. **Showcase the deal-advocate edge** ([[wiki/concepts/builder-deal-advocate]]) — get their
-   buyers concessions/buydowns so the agent visibly wins.
-3. **Quantify your value to them** — track buyers helped/closed on the project; bring that
-   story when you ask for more.
-4. **Make the explicit ask once trust is re-earned** — "I'd love to handle your resale
-   buyers too, not just the builder ones."
-5. **Earn the intros** — to other top agents and the builder's future phases/projects.
-- Run via [[wiki/realtor_systems/realtor-contact-to-partner-conversion]] (treat as a
-  high-priority Stage-4 relationship already in motion).
+## Conversion plan — GIVE-FIRST (he's chased by everyone)
+The proven lever with him is **reciprocity** — John's past deals came because John **referred
+clients TO him.** He's in high demand (everyone *asks*); the way to stand out is to **give,
+not chase.** See [[wiki/concepts/give-first-reciprocity]].
+1. **Send him buyers** — from content, database, builder traffic. Be a referral SOURCE first.
+   This is the #1 move; it inverts the dynamic.
+2. **Make his deals close** — deal-advocate edge ([[wiki/concepts/builder-deal-advocate]]):
+   get his buyers concessions/buydowns so he's the hero.
+3. **Serve buyers he can't** — Chinese-speaking buyers
+   ([[wiki/concepts/chinese-language-edge]]) → be uniquely useful, not just generous.
+4. **Be flawless on every shared project buyer** — proactive, on-time, no surprises.
+5. **Only then, lightly, ask** — for his resale buyers + intros to other top agents. By then
+   it's reciprocity, not a cold request.
+- No known exclusive lender → the door is open for whoever brings the most value.
+- Run via [[wiki/realtor_systems/realtor-contact-to-partner-conversion]] (high-priority).
 
 ## Snapshot — _TODO via interview_
 - Name / brokerage / contact: `TODO`
