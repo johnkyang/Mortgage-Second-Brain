@@ -14,6 +14,19 @@ Entry format:
 
 ---
 
+## 2026-05-24 — Built the Realtor Outreach Kit (scripts + one-pager + ClickUp pipeline)
+- Added/changed: Created [[wiki/scripts/realtor-outreach-scripts]] (8 give-first scenarios)
+  + [[wiki/offers/realtor-one-pager]] ("why work with me," compliant draft). Stood up a
+  "Realtor Partner Pipeline" list in the CRM ClickUp space (id `901416714484`) with a
+  START-HERE guide + the top agent seeded as the #1 conversion target. Registered in index.
+- Learned/insight: Kit operationalizes the realtor gap — capture (dev floor) → give-first
+  nurture → convert. One-pager + scripts lead with the edges (close their deals + serve
+  buyers they can't), not promised referrals. Top agent placed at "First co-deal" stage.
+- Gaps/opportunities: Names/contacts for the top agent + dev agents; NMLS # + Equal Housing
+  on the one-pager before publishing; set board statuses in UI; assign owner.
+- Next action: John fills the top-agent name + starts capturing dev agents into the pipeline;
+  finalize the one-pager in Canva with NMLS/disclosures.
+
 ## 2026-05-24 — Stood up the ClickUp Content Pipeline (LIVE)
 - Added/changed: Created "Content Pipeline" list in John's *Mortgage Content Marketing*
   ClickUp space (id `901416713938`) + a START-HERE guide task + 6 tasks (the batch-01 scripts,

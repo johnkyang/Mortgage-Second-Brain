@@ -84,6 +84,10 @@ _See the eight strategy hubs above. Sub-systems to be built in `/wiki/*_systems`
 
 ### Scripts (built)
 - [[wiki/scripts/why-use-me-vs-shopping]] — retention / anti-shopping (no lock-in on builder account)
+- [[wiki/scripts/realtor-outreach-scripts]] — realtor capture + conversion scripts (give-first)
+
+### Offers (built)
+- [[wiki/offers/realtor-one-pager]] — "why work with me" leave-behind for agents
 
 ---
 
