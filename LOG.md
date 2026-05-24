@@ -14,6 +14,18 @@ Entry format:
 
 ---
 
+## 2026-05-24 — Built lead playbooks: reactivation + realtor referrals
+- Added/changed: Created [[wiki/strategies/database-reactivation-campaign]] (segments,
+  value-first multi-touch sequence, metrics, TCPA/RESPA notes) and
+  [[wiki/realtor_systems/realtor-referral-framework]] (referral psychology, partner
+  lifecycle, A/B/C tiering, scripts, RESPA notes). Registered in [[INDEX.md]].
+- Learned/insight: Both top channels now have a concrete operating playbook; execution is
+  gated on (a) database segment counts, (b) John's real top-3 realtor partners.
+- Gaps/opportunities: Need segment counts + per-segment copy; need top-realtor traits from
+  John's experience to target the right agents.
+- Next action: Draft per-segment reactivation copy + realtor outreach scripts; interview
+  for top-3 realtor partners → build top-realtor-traits.
+
 ## 2026-05-24 — Tooling confirmed: Salesforce + ClickUp
 - Added/changed: Recorded tooling in [[AUTOMATION_ROADMAP.md]] (CRM=Salesforce, ops=ClickUp)
   and noted Claude has direct ClickUp MCP access → can build the referral/reactivation

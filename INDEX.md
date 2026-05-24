@@ -56,6 +56,10 @@ _See the eight strategy hubs above. Sub-systems to be built in `/wiki/*_systems`
 - [[wiki/sales_systems/referral-ask-system]] — repeatable referral asks (triggers + scripts)
 - [[wiki/sales_systems/review-generation-system]] — review/social-proof system
 
+### Lead playbooks (built)
+- [[wiki/strategies/database-reactivation-campaign]] — mine the owned database for leads
+- [[wiki/realtor_systems/realtor-referral-framework]] — earn + grow realtor referrals
+
 ### Scripts / Offers / Campaigns / Playbooks / Automations
 _None yet._
 
