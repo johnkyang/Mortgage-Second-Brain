@@ -14,6 +14,17 @@ Entry format:
 
 ---
 
+## 2026-05-24 — 25 English + 5 Chinese (RedNote, Traditional) video scripts → ClickUp + vault
+- Added/changed: Wrote 25 belief-shift English video scripts (from John's hook list) + 5
+  RedNote scripts in 繁體中文, each loaded as a task in the ClickUp Content Pipeline and saved
+  to [[wiki/content_systems/script-batch-02-english]] + [[wiki/content_systems/script-batch-03-chinese-rednote]].
+- Learned/insight: Chinese/RedNote pillar targets near-zero-competition LA Chinese buyers;
+  scripts written in **Traditional** per John's preference. Top viral angles: no-green-card/
+  foreign-national loans, self-employed/bank-statement, DPA, new-build advocacy, rate myth.
+- Gaps/opportunities: set Content Pipeline board statuses in UI; pick a first film batch;
+  decide Traditional vs Simplified for max RedNote reach.
+- Next action: batch-film the strongest English hooks + record/post the 5 中文 on RedNote.
+
 ## 2026-05-24 — Put scripts INTO ClickUp; named top agent (Neal Weichel)
 - Added/changed: John works in ClickUp, not the GitHub vault → embedded the full outreach
   scripts + one-pager copy as ClickUp tasks in the Realtor Partner Pipeline; named the top

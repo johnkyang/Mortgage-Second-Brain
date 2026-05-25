@@ -85,6 +85,9 @@ _See the eight strategy hubs above. Sub-systems to be built in `/wiki/*_systems`
 ### Scripts (built)
 - [[wiki/scripts/why-use-me-vs-shopping]] — retention / anti-shopping (no lock-in on builder account)
 - [[wiki/scripts/realtor-outreach-scripts]] — realtor capture + conversion scripts (give-first)
+- [[wiki/content_systems/script-batch-01-english]] — 6 restart video scripts (English)
+- [[wiki/content_systems/script-batch-02-english]] — 25 belief-shift video scripts (English)
+- [[wiki/content_systems/script-batch-03-chinese-rednote]] — 5 RedNote scripts (中文)
 
 ### Offers (built)
 - [[wiki/offers/realtor-one-pager]] — "why work with me" leave-behind for agents
